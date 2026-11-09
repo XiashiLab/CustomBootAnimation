@@ -67,6 +67,7 @@ Author| Xiashi
 
 <p align="center">
   *Made for those who appreciate a beautiful boot experience.*
+  
   © 2026 Xiashi
 
 </p>
