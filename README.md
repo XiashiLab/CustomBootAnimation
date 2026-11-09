@@ -3,7 +3,8 @@
 <p align="center">
   <img src="banner.png" alt="Aemeath Boot Animation Banner" width="100%">
 </p><p align="center">
-  **A Custom Android Boot Animation**Featuring Aemeath from Wuthering Waves
+  **A Custom Android Boot Animation**
+  Featuring Aemeath from Wuthering Waves
 
 Created with care by Xiashi
 
@@ -65,6 +66,7 @@ Author| Xiashi
 ---
 
 <p align="center">
-  *Made for those who appreciate a beautiful boot experience.*© 2026 Xiashi
+  *Made for those who appreciate a beautiful boot experience.*
+  © 2026 Xiashi
 
 </p>
