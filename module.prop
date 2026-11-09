@@ -5,3 +5,4 @@ versionCode=1
 author=Xiashi
 description=Custom Aemeath Boot Animation
 updateJson=https://raw.githubusercontent.com/XiashiLab/CustomBootAnimation/main/update.json
+banner=https://raw.githubusercontent.com/XiashiLab/CustomBootAnimation/main/banner.png
